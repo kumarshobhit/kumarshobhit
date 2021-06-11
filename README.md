@@ -14,11 +14,15 @@
 <br />
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Editor-VSCcode-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-
+![](https://img.shields.io/badge/javascript%20-%231572B6.svg?&style=for-the-badge&logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white)
+![](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/mongodb%20-%231572B6.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/heroku%20-%231572B6.svg?&style=for-the-badge&logo=heroku&logoColor=white)
+![](https://img.shields.io/badge/git%20-%231572B6.svg?&style=for-the-badge&logo=git&logoColor=white)
+<br />
 
 ![Shobhit's github stats](https://github-readme-stats.vercel.app/api?username=kumarshobhit&show_icons=true&theme=midnight-purple)
-
+<br >
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kumarshobhit.kumarshobhit)
