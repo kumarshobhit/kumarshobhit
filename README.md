@@ -1,16 +1,19 @@
-### Hi there 👋
+![Shobhit Kumar]()
 
-<!--
-**kumarshobhit/kumarshobhit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Shobhit!](#)  <a href="https://www.linkedin.com/in/shobhit-kumar-1979b1191/"> <img align="right" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
 
-Here are some ideas to get you started:
+### About Me 🚀
+🎓 I’m a Sophomore pursuing my Bachelors in Computer Science engineering </br>
+👨‍💻  I am passionate about Data structures and all things Product and Front End. I enjoy learning new things and helping others </br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Experiences 
+- IOSD Mait Member
+- Participant at GSSOC'21
+- Participant at NJACK'20
+<br />
+
+![Shitiz's github stats](https://github-readme-stats.vercel.app/api?username=kumarshobhit&show_icons=true&theme=midnight-purple)
+
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=kumarshobhit.kumarshobhit)
