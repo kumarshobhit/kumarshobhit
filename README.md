@@ -13,7 +13,12 @@
 - Participant at NJACK'20
 <br />
 
-![Shitiz's github stats](https://github-readme-stats.vercel.app/api?username=kumarshobhit&show_icons=true&theme=midnight-purple)
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/Editor-VSCcode-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+
+
+![Shobhit's github stats](https://github-readme-stats.vercel.app/api?username=kumarshobhit&show_icons=true&theme=midnight-purple)
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kumarshobhit.kumarshobhit)
