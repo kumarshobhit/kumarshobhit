@@ -4,7 +4,7 @@
 </a>
 
 ### About Me 🚀
-🎓 I’m a final year student pursuing my Bachelors in Computer Science engineering </br>
+🎓 I’m a CS graduate student at the University of Freiburg </br>
 👨‍💻  I am passionate about Data structures and all things Product and Front End. I enjoy learning new things and helping others </br>
 
 ### Experiences 
